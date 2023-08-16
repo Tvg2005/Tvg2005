@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AFEFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Venâncio;I'm+18+years+old;I'm+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 - 👾 Ciências da Computação - 2️⃣/8️⃣
 - 👀 Procurando um emprego...
@@ -35,4 +38,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tvg2005}/count.svg" /></p> 
 <br></div>
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AFEFF&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
