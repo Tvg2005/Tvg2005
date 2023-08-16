@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AFEFF&height=120&section=header"/>
+
 - 👾 Ciências da Computação - 2️⃣/8️⃣
 - 👀 Procurando um emprego...
 - 📫 Como me encontrar: <a target="_blank" href="mailto: thiagovenancio2005@gmail.com">thiagovenancio2005@gmail.com</a>
