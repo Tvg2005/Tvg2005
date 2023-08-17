@@ -4,7 +4,7 @@
 
 
 - 👾 Ciências da Computação - 2️⃣/8️⃣
-- 👀 Procurando um emprego...
+- 👀 Procurando um emprego front-end ou back-end
 - 📫 Como me encontrar: <a target="_blank" href="mailto: thiagovenancio2005@gmail.com">thiagovenancio2005@gmail.com</a>
 
 ## 🌐 Socials:
