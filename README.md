@@ -8,7 +8,7 @@
 - 📫 Como me encontrar: <a target="_blank" href="mailto: thiagovenancio2005@gmail.com">thiagovenancio2005@gmail.com</a>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thiago_venancio_/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ven%C3%A2ncio-690790267/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](thiagovenancio2005@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thiago_venancio_/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ven%C3%A2ncio-690790267/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagovenancio2005@gmail.com)
 
 <h2 align="center">⚡ Stats ⚡</h2> <br>
 
